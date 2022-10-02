@@ -1,0 +1,37 @@
+.title {
+    color: white;
+    text-transform:uppercase;
+}
+
+.table {
+    /*color: white;*/
+    font-size: 18px;
+}
+.table-header {
+    line-height: 100%;
+}
+.table-title {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    width: 50%;
+    line-height: 100%;
+}
+.table-genre {
+    /*color: white;*/
+    font-size: 16px;
+    text-align: left;
+    width: 50%;
+    line-height: 100%;
+}
+.table-info {
+    color: white;
+    font-size: 16px;
+    text-align: left;
+    width: 50%;
+    line-height: 100%;
+}
+
+.index {
+    font-size: 10px;
+}

@@ -1,0 +1,354 @@
+.icon-3sat {
+    background: url('icons/3sat.png');
+    height: 22px;
+    width: 58px;
+    display: block;
+}
+
+.icon-ard {
+    background: url('icons/ard.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-ardalpha {
+    background: url('icons/ardalpha.png');
+    height: 22px;
+    width: 58px;
+    display: block;
+}
+
+.icon-arte {
+    background: url('icons/arte.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-atv {
+    background: url('icons/atv.png');
+    height: 22px;
+    width: 58px;
+    display: block;
+}
+
+.icon-atv2 {
+    background: url('icons/atv2.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-bbc {
+    background: url('icons/bbc_grey.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-bibeltv {
+    background: url('icons/bibeltv.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-br {
+    background: url('icons/br.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+
+.icon-comedycentral {
+    background: url('icons/comedycentral.png');
+    height: 24px;
+    width: 60px;
+    display: block;
+}
+
+.icon-disneychannel {
+    background: url('icons/disneychannel.png');
+    height: 21px;
+    width: 60px;
+    display: block;
+}
+
+.icon-dmax {
+    background: url('icons/dmax_grey.png');
+    height: 22px;
+    width: 58px;
+    display: block;
+}
+
+.icon-hr {
+    background: url('icons/hr.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-kabel1 {
+    background: url('icons/kabel1.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+
+.icon-kabel1doku {
+    background: url('icons/kabel1doku.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-kika {
+    background: url('icons/kika.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-mdr {
+    background: url('icons/mdr.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-n24doku {
+    background: url('icons/n24doku.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-ndr {
+    background: url('icons/ndr.png');
+    height: 24px;
+    width: 60px;
+    display: block;
+}
+
+.icon-nitro {
+    background: url('icons/nitro.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+
+.icon-ntv {
+    background: url('icons/ntv.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+
+.icon-one {
+    background: url('icons/one.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-orf1 {
+    background: url('icons/orf1.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-orf2 {
+    background: url('icons/orf2.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+
+.icon-orf3 {
+    background: url('icons/orf3.png');
+    height: 22px;
+    width: 58px;
+    display: block;
+}
+.icon-orfsportplus {
+    background: url('icons/orfsportplus.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-phoenix {
+    background: url('icons/phoenix.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-pro7 {
+    background: url('icons/pro7.png');
+    height: 24px;
+    width: 60px;
+    display: block;
+}
+.icon-pro7maxx {
+    background: url('icons/pro7maxx_grey.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-puls4 {
+    background: url('icons/puls4.png');
+    height: 24px;
+    width: 60px;
+    display: block;
+}
+.icon-puls24 {
+    background: url('icons/puls24.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-rbb {
+    background: url('icons/rbb.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+.icon-rtl {
+    background: url('icons/rtl.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-rtl2 {
+    background: url('icons/rtl2.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+.icon-rtlup {
+    background: url('icons/rtlup.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-sat1 {
+    background: url('icons/sat1.png');
+    height: 22px;
+    width: 58px;
+    display: block;
+}
+.icon-sat1gold {
+    background: url('icons/sat1gold.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-servustv {
+    background: url('icons/servustv.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+.icon-silverline {
+    background: url('icons/silverline.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+.icon-sixx {
+    background: url('icons/sixx.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-skycinemahd {
+    background: url('icons/skycinemahd.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-slovenija2 {
+    background: url('icons/slovenija2.png');
+    height: 24px;
+    width: 60px;
+    display: block;
+}
+.icon-sonnenklartv {
+    background: url('icons/sonnenklartv.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-spiegeltv {
+    background: url('icons/spiegeltv.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-superrtl {
+    background: url('icons/superrtl.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-swr {
+    background: url('icons/swr.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-tagesschau24 {
+    background: url('icons/tagesschau24.png');
+    height: 24px;
+    width: 60px;
+    display: block;
+}
+.icon-tele5 {
+    background: url('icons/tele5.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-tlc {
+    background: url('icons/tlc.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+.icon-tv5 {
+    background: url('icons/tv5.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-vox {
+    background: url('icons/vox.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-wdr {
+    background: url('icons/wdr.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-zdf {
+    background: url('icons/zdf.png');
+    height: 22px;
+    width: 58px;
+    display: block;
+}
+.icon-zdfinfo {
+    background: url('icons/zdfinfo.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-zdfneo {
+    background: url('icons/zdfneo.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
