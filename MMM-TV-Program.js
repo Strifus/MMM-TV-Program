@@ -17,9 +17,7 @@ Module.register("MMM-TV-Program",{
         lengthTitle: 30,
         lengthGenre: 30,
         wrapTitle: false,
-        wrapGenre: false,
-        linesTitle: 1,
-        linesGenre: 1
+        linesTitle: 1
     },
 
     start: function () {
@@ -158,12 +156,12 @@ Module.register("MMM-TV-Program",{
         
         // create table with TV program
         var table = document.createElement("table");
-		table.className = "table";
-		for (i=startIdx;i<endIdx;i++) {
+        //table.className = "table";
+        for (i=startIdx;i<endIdx;i++) {
             
             // header row: station name/icon
             var row = document.createElement("tr");
-			table.appendChild(row);
+            table.appendChild(row);
             
             var icon = document.createElement("td");
             if (this.getIcon(primeShow[i].station) != "") {
@@ -225,13 +223,11 @@ Module.register("MMM-TV-Program",{
             }
         }
 
-
         // append child elements
         wrapper.appendChild(table);
         if (this.config.showIndex) {
             wrapper.appendChild(index);
         }
-
 
         return wrapper;
     },
@@ -262,7 +258,7 @@ Module.register("MMM-TV-Program",{
 			this.updateDom(this.config.animationSpeed);
             
             
-            // workaround until program fetcher has been implementeds
+            // workaround until program fetcher has been implemented
             this.myTimer++;
             if (this.myTimer >= (this.config.reloadInterval/this.config.updateInterval)) {
                 this.getUrlContent();
@@ -402,6 +398,9 @@ Module.register("MMM-TV-Program",{
             case "sixx austria":
                 icon = "icon-sixx";
                 break;
+            case "sky cinema +24":
+                icon = "icon-skycinema24";
+                break;    
             case "sky cinema hd":
                 icon = "icon-skycinemahd";
                 break;    

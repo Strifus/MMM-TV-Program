@@ -262,6 +262,12 @@
     width: 58px;
     display: block;
 }
+.icon-skycinema24 {
+    background: url('icons/skycinema24.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
 .icon-skycinemahd {
     background: url('icons/skycinemahd.png');
     height: 24px;
