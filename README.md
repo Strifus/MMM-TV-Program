@@ -83,6 +83,30 @@ The following properties can be configured:
 			    <b>Default value:</b> <code>10 * 1000</code>
 			</td>
 		</tr>
+		<tr>
+			<td><code>lengthTitle</code></td>
+			<td>Maximum character length of title before it gets shortened/wrapped.<br>
+			    <b>Default value:</b> <code>30</code>
+			</td>
+		</tr>
+		<tr>
+			<td><code>lengthGenre</code></td>
+			<td>Maximum character length of genre before it gets shortened.<br>
+			    <b>Default value:</b> <code>30</code>
+			</td>
+		</tr>
+		<tr>
+			<td><code>wrapTitle</code></td>
+			<td>Flag whether title should be wrapped in case of maximum character length exceedance.<br>
+			    <b>Default value:</b> <code>false</code>
+			</td>
+		</tr>
+		<tr>
+			<td><code>linesTitle</code></td>
+			<td>Maximum number of lines title is allowed to occupy in case of wrapping.<br>
+			    <b>Default value:</b> <code>1</code>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
