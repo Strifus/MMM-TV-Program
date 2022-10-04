@@ -82,6 +82,13 @@
     display: block;
 }
 
+.icon-euronews {
+    background: url('icons/euronews.png');
+    height: 22px;
+    width: 60px;
+    display: block;
+}
+
 .icon-hr {
     background: url('icons/hr.png');
     height: 24px;
@@ -288,6 +295,12 @@
 }
 .icon-spiegeltv {
     background: url('icons/spiegeltv.png');
+    height: 24px;
+    width: 58px;
+    display: block;
+}
+.icon-sport1 {
+    background: url('icons/sport1.png');
     height: 24px;
     width: 58px;
     display: block;

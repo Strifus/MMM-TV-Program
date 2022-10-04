@@ -314,6 +314,9 @@ Module.register("MMM-TV-Program",{
             case "dmax":
                 icon = "icon-dmax";
                 break;
+            case "euronews":
+                icon = "icon-euronews";
+                break;
             case "hessen fernsehen":
                 icon = "icon-hr";
                 break;
@@ -412,6 +415,9 @@ Module.register("MMM-TV-Program",{
                 break;    
             case "spiegel tv":
                 icon = "icon-spiegeltv";
+                break;
+            case "sport1":
+                icon = "icon-sport1";
                 break;
             case "super rtl":
                 icon = "icon-superrtl";
